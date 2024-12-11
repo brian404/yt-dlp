@@ -4,7 +4,8 @@ Express.js API to download YouTube videos or audio using yt-dlp.
 ## Requirements
 
 - **Node.js**
-- **Python (3.9 or higher**
+- **Express.js
+- **Python (3.9 or higher)
 - **FFmpeg**
 - **Cookies File**: Add your YouTube cookies in `cookies.txt` (Netscape format).
 
